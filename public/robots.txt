@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /gestione-prenotazione
+Disallow: /login
+Disallow: /recupero-password
+Disallow: /aggiorna-password
+
+Sitemap: https://tennis-asiago.vercel.app/sitemap.xml

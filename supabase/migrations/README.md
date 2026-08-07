@@ -1,0 +1,12 @@
+-- Migration: Tennis Club Asiago — evoluzione schema
+-- Data: 2026-08-04
+--
+-- Questa migration e' stata applicata tramite Supabase MCP.
+-- Contiene: nuove colonne, trigger, funzioni RPC, policy RLS aggiornate, dati demo.
+-- Il SQL completo e' nel record di migrazione del progetto Supabase.
+--
+-- Per ricreare il database da zero:
+-- 1. Applicare la migration iniziale (asiago_tennis_schema)
+-- 2. Applicare questa migration (tennis_club_asiago_evolution)
+--
+-- Entrambe sono registrate nella tabella supabase_migrations.schema_migrations.
